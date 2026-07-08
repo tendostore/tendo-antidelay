@@ -1,0 +1,6 @@
+id=tendo_antidelay
+name=Tendo - Anti Delay Notifikasi & Download
+version=v1.0
+versionCode=1
+author=Tendo Store
+description=Modul buatan Tendo Store untuk mengatasi delay notifikasi & download. Toggle Doze whitelist per aplikasi dan cached apps freezer lewat WebUI. Kompatibel KernelSU & Magisk (WebUI di Magisk butuh app WebUI X/KsuWebUIStandalone).
